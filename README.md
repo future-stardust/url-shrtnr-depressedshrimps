@@ -1,4 +1,4 @@
-# {Team Name} - URL shortener {🧪}
+# DepressedShrimps - URL shortener :fried_shrimp:
 
 This is a template project for "Software testing" course labs. Use it to create your own repo and 
 fulfill/rewrite this document (at least, replace everything in `{...}`).
@@ -7,11 +7,11 @@ fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 - {Surname Name (in Ukrainian)} {email}
 - ...
-- {Surname Name (in Ukrainian)} {email}
+- Дремов Артем - a.k.dremov@gmail.com
 
 ## Design document
 
-The [design document]({Place actual link to the design document Google Docs file here}) that
+The [design document](https://docs.google.com/document/d/1JGxmZHLfinzL4WLcROh6ILBgz4L3bUKLdO2m5v9jXmg/edit?usp=sharing) that
 describes architecture and implementation details of this project.
 
 ### System structure
