@@ -5,8 +5,9 @@ fulfill/rewrite this document (at least, replace everything in `{...}`).
 
 ## Students group
 
-- {Surname Name (in Ukrainian)} {email}
-- ...
+- Торбанов Олександр - torbanowmain@gmail.com  
+- Кравчук Олександр - sanyakrasavacue2@gmail.com   
+- Сімаков Єгор - novayazemlya2015@gmail.com 
 - Дремов Артем - a.k.dremov@gmail.com
 
 ## Design document
