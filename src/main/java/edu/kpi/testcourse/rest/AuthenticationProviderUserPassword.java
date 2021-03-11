@@ -14,10 +14,7 @@ import java.util.ArrayList;
 import javax.inject.Singleton;
 import org.reactivestreams.Publisher;
 
-/**
- * Micronaut authentication bean that contains authorization logic: ensures that a user is
- * registered in the system and password is right.
- */
+
 @Singleton
 public class AuthenticationProviderUserPassword implements AuthenticationProvider {
 
